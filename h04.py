@@ -1,10 +1,14 @@
 import turtle
 
+#kilpkonna seaded
+
 turtle.speed(0)
 ekraan = turtle.Screen()
 ekraan.title("Olümpia Rõngad -Alar ")
 ekraan.setup(500,400)
 turtle.pensize(6)
+
+#olümpia rõngad
 
 turtle.pencolor("blue")
 turtle.penup()
