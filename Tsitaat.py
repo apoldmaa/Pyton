@@ -1,0 +1,1 @@
+print ('Albert Einstein ütles: "Kujutlusvõime on tähtsam kui teadmine."')
